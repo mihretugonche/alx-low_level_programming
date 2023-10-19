@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * print_buffer - prints buffer
+ * print_buffer - this  prints buffer
  * @b: buffer
  * @size: size
  * Return: void
